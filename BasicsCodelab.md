@@ -18,7 +18,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 ```
 
-![8cd9258af95884b6d1b723ac9192e0f](D:\development\AndroidStudioProjects\BasicsCodelab1\8cd9258af95884b6d1b723ac9192e0f.png)
+![8cd9258af95884b6d1b723ac9192e0f](./image/8cd9258af95884b6d1b723ac9192e0f.png)
 
 ## 2.为界面上的 `Text` 添加内边距
 
@@ -39,7 +39,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 ```
 
-![dc388d5f58dab97b4b71f27ca1f3772](D:\development\AndroidStudioProjects\BasicsCodelab1\dc388d5f58dab97b4b71f27ca1f3772.png)
+![dc388d5f58dab97b4b71f27ca1f3772](./image/dc388d5f58dab97b4b71f27ca1f3772.png)
 
 ## 3.重复使用可组合项
 
@@ -121,7 +121,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 
 ```
 
-![d247118b9675943e8f18c8336eea6a5](D:\development\AndroidStudioProjects\BasicsCodelab1\d247118b9675943e8f18c8336eea6a5.png)
+![d247118b9675943e8f18c8336eea6a5](./image/d247118b9675943e8f18c8336eea6a5.png)
 
 ```
 @Composable
@@ -138,7 +138,7 @@ fun MyApp(
 
 ```
 
-![ee9f1307674004e9bf6fbcfad54a04f](D:\development\AndroidStudioProjects\BasicsCodelab1\ee9f1307674004e9bf6fbcfad54a04f.png)
+![ee9f1307674004e9bf6fbcfad54a04f](./image/ee9f1307674004e9bf6fbcfad54a04f.png)
 
 ```
 @Preview(showBackground = true, widthDp = 320)
@@ -150,7 +150,7 @@ fun GreetingPreview() {
 }
 ```
 
-![5cca462c45d004af6e4f0ab4ce8e18a](D:\development\AndroidStudioProjects\BasicsCodelab1\5cca462c45d004af6e4f0ab4ce8e18a.png)
+![5cca462c45d004af6e4f0ab4ce8e18a](./image/5cca462c45d004af6e4f0ab4ce8e18a.png)
 
 ```
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -181,7 +181,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 ```
 
-![c53b4926a129d2d3c200b9cb9d53644](D:\development\AndroidStudioProjects\BasicsCodelab1\c53b4926a129d2d3c200b9cb9d53644.png)
+![c53b4926a129d2d3c200b9cb9d53644](./image/c53b4926a129d2d3c200b9cb9d53644.png)
 
 ### 4.2 添加按钮
 
@@ -211,7 +211,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 
 ```
 
-![2d194ad33d79dd1d0e4e6fc1a9b395a](D:\development\AndroidStudioProjects\BasicsCodelab1\2d194ad33d79dd1d0e4e6fc1a9b395a.png)
+![2d194ad33d79dd1d0e4e6fc1a9b395a](./image/2d194ad33d79dd1d0e4e6fc1a9b395a.png)
 
 ## 5.Compose中的状态
 
@@ -243,6 +243,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 }
 ```
 
-![image-20250423103541113](D:\development\AndroidStudioProjects\BasicsCodelab1\image-20250423103541113.png)
+![image-20250423103541113](./image/image-20250423103541113.png)
 
-![image-20250423103612297](D:\development\AndroidStudioProjects\BasicsCodelab1\image-20250423103612297.png)
+![image-20250423103612297](./image/image-20250423103612297.png)
