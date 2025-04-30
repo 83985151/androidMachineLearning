@@ -1,5 +1,7 @@
 # 1.准备工作
 
+(如果图片看不了的话请转到这个网页：https://gitee.com/kkkkkkkkqqqqqqqqqqqqq/androidMachineLearning/blob/master/CameraXApp.md)
+
 
 
 ![image-20250430111547591](./image/image-20250430111547591.png)
