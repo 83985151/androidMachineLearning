@@ -2,7 +2,7 @@
 
 
 
-![image-20250430111547591](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20250430111547591.png)
+![image-20250430111547591](./image/image-20250430111547591.png)
 
 # 2.请求必要权限
 
