@@ -1,6 +1,6 @@
 # Compose入门
 
-
+(如果图片看不了的话请跳到这个网页： https://gitee.com/kkkkkkkkqqqqqqqqqqqqq/androidMachineLearning/blob/master/BasicsCodelab.md)
 
 ## 1.设置不同的背景颜色
 
